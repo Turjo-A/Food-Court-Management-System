@@ -1,0 +1,29 @@
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\Food Court Management System.exe
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\Food Court Management System.deps.json
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\Food Court Management System.runtimeconfig.json
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\Food Court Management System.runtimeconfig.dev.json
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\Food Court Management System.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\ref\Food Court Management System.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\Food Court Management System.pdb
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.csproj.AssemblyReference.cache
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food_Court_Management_System.LoginPage.resources
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.csproj.GenerateResource.cache
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.AssemblyInfoInputs.cache
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.AssemblyInfo.cs
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.csproj.CoreCompileInputs.cache
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\ref\Food Court Management System.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.pdb
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.genruntimeconfig.cache
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food_Court_Management_System.Properties.Resources.resources
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food_Court_Management_System.Admin.resources
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food_Court_Management_System.Manager.resources
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food_Court_Management_System.Customer.resources
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\symih\source\repos\Food Court Management System\Food Court Management System\obj\Debug\net5.0-windows\Food Court Management System.csproj.CopyComplete
